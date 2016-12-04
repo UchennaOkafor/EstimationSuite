@@ -32,3 +32,7 @@ ___
 #Reports
 
 <img src="http://i.imgur.com/kuZ03XS.png">
+
+##Disclaimer
+This project was written by me in 2016 during summer for a client who wishes to remain anonymous.
+Therefore, this repository is only to showcase my work. I give no permission for anyone to use this project or any part of it in any shape or form. Hence the omission of a license.
